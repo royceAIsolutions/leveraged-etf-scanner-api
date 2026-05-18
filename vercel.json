@@ -2,14 +2,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "scanner_api.py",
+      "src": "app.py",
       "use": "@vercel/python"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "scanner_api.py"
+      "dest": "app.py"
     }
   ]
 }

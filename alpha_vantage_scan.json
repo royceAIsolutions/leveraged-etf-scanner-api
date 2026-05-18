@@ -1,0 +1,99 @@
+[
+  {
+    "ticker": "SSO",
+    "price": 66.43,
+    "change_pct": -2.4523,
+    "rsi": 67.0954,
+    "signal": "HOLD",
+    "reasons": [],
+    "timestamp": "2026-05-17T22:16:30.016295"
+  },
+  {
+    "ticker": "UPRO",
+    "price": 139.73,
+    "change_pct": -3.7009,
+    "rsi": null,
+    "signal": "HOLD",
+    "reasons": [
+      "Down -3.7% today"
+    ],
+    "timestamp": "2026-05-17T22:16:56.630726"
+  },
+  {
+    "ticker": "UDOW",
+    "price": 60.39,
+    "change_pct": -3.128,
+    "rsi": null,
+    "signal": "HOLD",
+    "reasons": [
+      "Down -3.1% today"
+    ],
+    "timestamp": "2026-05-17T22:18:16.575892"
+  },
+  {
+    "ticker": "USO",
+    "price": 148.23,
+    "change_pct": 3.6573,
+    "rsi": null,
+    "signal": "HOLD",
+    "reasons": [
+      "Up 3.7% today"
+    ],
+    "timestamp": "2026-05-17T22:26:43.621803"
+  },
+  {
+    "ticker": "UWT",
+    "price": 0.1636,
+    "change_pct": -1.2674,
+    "rsi": null,
+    "signal": "HOLD",
+    "reasons": [],
+    "timestamp": "2026-05-17T22:27:37.115036"
+  },
+  {
+    "ticker": "GDXU",
+    "price": 157.47,
+    "change_pct": -21.127,
+    "rsi": 39.0637,
+    "signal": "BUY",
+    "reasons": [
+      "RSI=39.1 < 40",
+      "Down -21.1% today"
+    ],
+    "timestamp": "2026-05-17T22:29:50.707168"
+  },
+  {
+    "ticker": "RETL",
+    "price": 6.84,
+    "change_pct": -4.4693,
+    "rsi": 33.622,
+    "signal": "BUY",
+    "reasons": [
+      "RSI=33.6 < 40",
+      "Down -4.5% today"
+    ],
+    "timestamp": "2026-05-17T22:32:18.145334"
+  },
+  {
+    "ticker": "YINN",
+    "price": 32.83,
+    "change_pct": -8.2961,
+    "rsi": null,
+    "signal": "HOLD",
+    "reasons": [
+      "Down -8.3% today"
+    ],
+    "timestamp": "2026-05-17T22:34:59.487391"
+  },
+  {
+    "ticker": "UWM",
+    "price": 57.87,
+    "change_pct": -4.8817,
+    "rsi": null,
+    "signal": "HOLD",
+    "reasons": [
+      "Down -4.9% today"
+    ],
+    "timestamp": "2026-05-17T22:38:07.290876"
+  }
+]

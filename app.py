@@ -18,7 +18,7 @@ def root():
 
 @app.get("/scan")
 def scan_etfs():
-    scan_file = os.path.expanduser("~/.hermes/skills/finance/free-finance-apis/alpha_vantage_scan.json")
+    scan_file = os.path.join(os.path.dirname(__file__), "alpha_vantage_scan.json")
     if os.path.exists(scan_file):
         with open(scan_file) as f:
             return json.load(f)
